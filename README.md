@@ -1,0 +1,1 @@
+A basic version of an academic scheduler. The software takes student course selections/demands from student-demands.xlsx and teachers' course availability and teaching restrictions from teacher-course-info.xlsx to create weekly timetables for students and teachers, free of any time conflicts
